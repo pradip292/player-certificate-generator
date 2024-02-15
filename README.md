@@ -32,12 +32,4 @@ This project is a simple web application that allows users to select a player's 
 3. Click on the "Generate Certificate" button.
 4. You will be redirected to `certificate.php`, where the certificate with the selected player's name will be displayed.
 
-## Demo
-You can view a live demo of this project at [Player Certificate Generator Demo](https://your-demo-url.com).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file according to your project's specific requirements and add any additional information you think is necessary.
+You can free to use :-)
